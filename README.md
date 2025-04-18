@@ -1,4 +1,4 @@
-Old Java applet EOLine solver by Zbigniew Zborowski: https://speedcubing.com/other.html
+Old Java applet EOLine solver by Zbigniew Zborowski: https://web.archive.org/web/20120425222506/http://rubiks-cube.c0.pl/inne/eoline.html
 
 Props to Michael Feather for restoring Java applets: https://mfeather1.github.io/ACJS_Evolution/cheer.html
 
